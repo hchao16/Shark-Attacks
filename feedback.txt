@@ -1,0 +1,9 @@
+Great work and interesting subject ! You did good research that was relevant to your subject.
+I simply displaying numbers is not a very engaging or interesting way to convey your data. Using 
+packages such as matplotlib do display the data (as a histogram for example) will make your data 
+easier to display, share and understand. 15% of your grade is based on data visualization. 
+However, I counted the fact that you wanted to display a map of the attacks so you didn't lose any points.
+
+Please don't forget that you will be graded on what you did and the amount of effort you put into your 
+project. Simply saying the % of attacks per activity (especially since it pretty much all given in one 
+dataset) might not be enough. Please think about how you could expand this idea to get more out of it.
